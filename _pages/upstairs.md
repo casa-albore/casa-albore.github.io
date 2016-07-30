@@ -185,7 +185,6 @@ Sélectionner une image pour visionner la galerie...
   * Aspirateur
   * Fer à repasser avec table
 * À l'extérieur (en contournant la maison)
-  * Parking privatif pour une voiture
   * Jardinet avec table et chaises
 * Divers
   * Jeux pour enfants, Livres
@@ -193,6 +192,7 @@ Sélectionner une image pour visionner la galerie...
   * Accès internet wifi l’été ou avec entente préalable avec les propriétaires
   * Surface habitable de 75m²
   * Non-fumeur
+  * Parking dans hameau et place privatif un peu plus loin
 
 ## Livre d'or
 
