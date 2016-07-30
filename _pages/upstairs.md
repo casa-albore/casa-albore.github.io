@@ -185,7 +185,7 @@ Sélectionner une image pour visionner la galerie...
   * Aspirateur
   * Fer à repasser avec table
 * À l'extérieur (en contournant la maison)
-  * Jardinet avec table et chaises
+  * Jardinet avec table et chaises, oranger, citronnier
 * Divers
   * Jeux pour enfants, Livres
   * Double vitrage, chauffage électrique
