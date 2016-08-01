@@ -10,7 +10,7 @@ header:
   cta_url: "http://en.casa.albore.fr"
   caption:
 excerpt: 'Bienvenue &agrave; Casa Albore, deux gites dans une grande maison de village
-dans le Cap Corse, rénovée avec amour par un ébéniste ... anciens
+du Cap Corse, rénovée avec amour par un ébéniste ... anciens
 murs, terre cuite, poutres apparentes. La maison est entourée par la
 nature, avec vue sur maquis et mer.'
 feature_row:
