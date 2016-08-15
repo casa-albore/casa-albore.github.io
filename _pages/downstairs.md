@@ -7,6 +7,8 @@ header_text: Gite du Bas
 gallery_livre:
   - url: livret-bas/web/cover.jpg
     image_path: livret-bas/th/cover.jpg
+  - url: livret-bas/web/30.jpg
+    image_path: livret-bas/th/30.jpg
   - url: livret-bas/web/29.jpg
     image_path: livret-bas/th/29.jpg
   - url: livret-bas/web/28.jpg
