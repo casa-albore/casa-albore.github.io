@@ -2,9 +2,8 @@
 
 mkdir -p web
 rm web/* 
-mogrify  -define jpeg -resize 1280x768 -auto-orient -unsharp 0x.5 -path web  *.jpg
+mogrify  -define jpeg -resize 1280x768 -auto-orient -unsharp 0x.5 -path web  *.jpg *.JPG
 
 mkdir -p th
 rm th/* 
-mogrify  -define jpeg:size=500x180 -auto-orient  -thumbnail 250x90 -unsharp 0x.5 -path th  *.jpg *.JPG
-
+mogrify -auto-orient  -thumbnail 100x67 -gravity center -extent 100x67 -path th  *.jpg *.JPG

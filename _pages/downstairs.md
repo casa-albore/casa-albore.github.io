@@ -79,8 +79,8 @@ gallery:
     image_path: gite-du-bas/th/view of terrace.JPG
     alt: "la terrasse terrace"
     title: "la terrasse"
-  - url: gite-du-bas/web/entrance with garden.JPG
-    image_path: gite-du-bas/th/entrance with garden.JPG
+  - url: gite-du-bas/web/garden.JPG
+    image_path: gite-du-bas/th/garden.JPG
     alt: "jardinet avec citronnier et oranger"
     title: "jardinet avec citronnier et oranger"
   - url: gite-du-bas/web/entrance hall.jpg
