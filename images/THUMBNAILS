@@ -6,4 +6,4 @@ mogrify  -define jpeg -resize 1280x768 -auto-orient -unsharp 0x.5 -path web  *.j
 
 mkdir -p th
 rm th/* 
-mogrify -auto-orient  -thumbnail 100x67 -gravity center -extent 100x67 -path th  *.jpg *.JPG
+mogrify -auto-orient  -thumbnail 200x134 -gravity center -extent 200x134 -path th  *.jpg *.JPG
