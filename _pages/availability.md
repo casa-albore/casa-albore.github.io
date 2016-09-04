@@ -8,7 +8,7 @@ calendar: true
 ---
 ## Prix
 
-|                            |           | **juin/sept** | **juil-aout** | **Vacances** | **Bas Saison** |
+|                            |           | **juin/sept** | **juil-aout** | **Paques** | **Bas Saison** |
 |--------------|------|----------:|-------------:|-------------:|--------------:|
 | **[Gite du Bas]({{ site.baseurl }}/downstairs)**   | 6-7 pl | 550             | 850                   | 500                  | 400                   |
 | **[Gite du Haut]({{ site.baseurl }}/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
