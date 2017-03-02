@@ -134,6 +134,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _docs
+  - .pdf
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
