@@ -147,6 +147,14 @@ gallery:
     image_path: gite-du-bas/th/salle d'eau.JPG
     alt: "salle d'eau"
     title: "salle d'eau"
+  - url: gite-du-bas/web/rdc.jpg
+    image_path: gite-du-bas/th/rdc.jpg
+    alt: "plan du rdc'"
+    title: "Plan du rdc"
+  - url: gite-du-bas/web/etage.jpg
+    image_path: gite-du-bas/th/etage.jpg
+    alt: "plan de l'étage'"
+    title: "Plan de l'étage"
   - url: gite-du-bas/web/village.JPG
     image_path: gite-du-bas/th/village.JPG
     alt: "Hameau de Suare"

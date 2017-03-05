@@ -125,6 +125,14 @@ gallery:
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
     alt: "salle d'eau avec douche 'igloo'"
     title: "salle d'eau avec douche 'igloo'"
+  - url: gite-du-haut/web/rdc.jpg
+    image_path: gite-du-haut/th/rdc.jpg
+    alt: "plan du rdc avec entrée du gite du haut'"
+    title: "Plan du rdc avec entrée du gite du haut"
+  - url: gite-du-haut/web/etage.jpg
+    image_path: gite-du-haut/th/etage.jpg
+    alt: "plan de l'étage avec gite du haut'"
+    title: "Plan de l'étage avec gite du haut"
   - url: gite-du-haut/web/village.JPG
     image_path: gite-du-haut/th/village.JPG
     alt: "Hameau de Suare"
