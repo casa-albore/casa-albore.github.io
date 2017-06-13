@@ -34,10 +34,7 @@ et à notre expèrience, moins cher que les autres.
 
 Si vous réservez à travers ce lien ils nous versent un petit commission:
 
-<a
-href='http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001'><img
-src='http://affiliation.corsicaferries.com/WebAffiliation/_Menu/Images/ban/corsica_v1_120x60.gif'
-border='0'/></a>
+[![Corsica Ferries Logo](http://affiliation.corsicaferries.com/WebAffiliation/_Menu/Images/ban/corsica_v1_120x60.gif)](http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001)
 
 
 ## Casa Albore
