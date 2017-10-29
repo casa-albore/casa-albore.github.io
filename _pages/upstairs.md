@@ -7,6 +7,12 @@ header_text: Gite du Haut
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/36.jpg
+    image_path: livret-haut/th/36.jpg
+  - url: livret-haut/web/35.jpg
+    image_path: livret-haut/th/35.jpg
+  - url: livret-haut/web/34.jpg
+    image_path: livret-haut/th/34.jpg
   - url: livret-haut/web/33.jpg
     image_path: livret-haut/th/33.jpg
   - url: livret-haut/web/32.jpg
@@ -162,7 +168,7 @@ cuisine américaine, et une surface de 75m2.
 ## Gallerie
 
 Sélectionner une image pour visionner la galerie...
- 
+
 {% include base_path %}
 
 {% include gallery %}
@@ -190,7 +196,7 @@ Sélectionner une image pour visionner la galerie...
   * Douche, WC, lavabo
   * Sèche-cheveux
 * Hall d’entrée
-  * Accès indépendant 
+  * Accès indépendant
   * Lave-linge et étendage
   * Aspirateur
   * Fer à repasser avec table
@@ -228,5 +234,3 @@ mangent ensemble.
 
 Pour avoir plus d'informations sur la region, vous pouvez consulter
 notre page sur [Cap Corse]({{ site.baseurl }}/region).
-
-
