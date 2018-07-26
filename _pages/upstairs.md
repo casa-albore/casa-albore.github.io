@@ -7,6 +7,10 @@ header_text: Gite du Haut
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/38.jpg
+    image_path: livret-haut/th/38.jpg
+  - url: livret-haut/web/37.jpg
+    image_path: livret-haut/th/37.jpg
   - url: livret-haut/web/36.jpg
     image_path: livret-haut/th/36.jpg
   - url: livret-haut/web/35.jpg
@@ -208,7 +212,7 @@ Sélectionner une image pour visionner la galerie...
   * Accès internet wifi l’été ou avec entente préalable avec les propriétaires
   * Surface habitable de 75m²
   * Non-fumeur
-  * Parking dans hameau et place privatif un peu plus loin
+  * Parking dans hameau à 50m
 
 ## Livre d'or
 

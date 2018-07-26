@@ -1,9 +1,9 @@
 #!/bin/sh
 
 mkdir -p web
-rm web/* 
+rm web/*
 mogrify  -define jpeg -resize 1280x768 -auto-orient -unsharp 0x.5 -path web  *.jpg *.JPG
 
 mkdir -p th
-rm th/* 
+rm th/*
 mogrify -auto-orient  -thumbnail 200x134 -gravity center -extent 200x134 -path th  *.jpg *.JPG
