@@ -17,13 +17,10 @@ Aucun supplément ne sera compté pour les enfants de moins de 3 ans.
 
 Casa Albore est une maison non-fumeur, vous pouvez fumer sur la terrasse du gite du bas, ou dehors.
 
-Les charges, avec chauffage et bois en hiver pour cheminée sont compris.
-
-Le linge de maison peut être loué au forfait de 10€ / personne, serviettes et draps compris.
+Le linge de maison est inclus - draps, serviettes de bain et torchon.
 
 Le ménage de fin de séjour est proposé au forfait de 50€ / gite.
 
 Nous demandons un chèque de caution de 500€ qui est rendu à la fin du séjour.
 
 Pour les animaux, nous les acceptons uniquement s'ils sont calmes de manière à ne pas dégrader le gîte, car nous tenons à le conserver en excellent état afin de pouvoir toujours offrir à nos locataires un lieu de qualité et agréable :-)
-
