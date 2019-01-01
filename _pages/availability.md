@@ -13,7 +13,7 @@ calendar: true
 | **[Gite du Bas]({{ site.baseurl }}/downstairs)**  | 6-7 pl | 600             | 900                  | 450                   |
 | **[Gite du Haut]({{ site.baseurl }}/upstairs)** | 5 pl    | 500             | 700                   | 400                   |
 
-Tout prix est en euro et par semaine, linge de maison inclus. Les locations pour juillet et août sont de samedi
+Tout prix est en euro et par semaine, draps et serviettes de toilette inclus. Les locations pour juillet et août sont de samedi
 en samedi, en dehors des vacances scolaires le séjour minimum est de 4 nuits (tarif au pro-rata)
 
 Les livres d'or des gites sont visibles pour chaque gite: [Gite du Bas]({{ site.baseurl }}/downstairs#livre-dor) ou [Gite du Haut]({{ site.baseurl }}/upstairs#livre-dor)

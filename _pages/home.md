@@ -24,7 +24,7 @@ aussi une grande terrasse"
   - image_path: front/web/upstairs-splash.jpg
     alt: "gite du haut"
     title: "Gite du haut"
-    excerpt: "Avec la place pour 5 personnes, le gite du haut a un access independant et un grand salon"
+    excerpt: "Avec la place pour 5 personnes, le gite du haut a un acces independant et un grand salon"
     url: "/upstairs/"
     btn_label: "Visiter le gite du haut"
   - image_path: front/web/tamarone.jpg
@@ -42,9 +42,7 @@ aussi une grande terrasse"
 
 
 Gite de Casa Albore, Suare, 20228 Cagnano -
-email: <a href="mailto:casa.albore@free.fr">casa.albore@free.fr</a> - 
+email: <a href="mailto:casa.albore@free.fr">casa.albore@free.fr</a> -
 tel.
 <a href="tel:+33679262292">06.79.26.22.92</a> -
 <a href="tel:+33495574163">06.71.60.69.61</a>
-
-
