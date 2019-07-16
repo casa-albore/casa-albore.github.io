@@ -7,6 +7,10 @@ header_text: Gite du Haut
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/41.jpg
+    image_path: livret-haut/th/41.jpg
+  - url: livret-haut/web/40.jpg
+    image_path: livret-haut/th/40.jpg
   - url: livret-haut/web/39.jpg
     image_path: livret-haut/th/39.jpg
   - url: livret-haut/web/38.jpg
