@@ -198,7 +198,7 @@ Sélectionner une image pour visionner la galerie...
   * Cafetière, grille-pain, bouilloire, ...
 * Couchages
   * Chambre double avec lit 140
-  * Chambre simple avec lit 120
+  * Chambre simple/double avec lit 140
   * Chambre avec 2 lits en 90
   * Ventilateur colonne présent dans chaque chambre
   * Possibilité de lit bébé
