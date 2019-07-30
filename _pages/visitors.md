@@ -13,7 +13,7 @@ header_text: Information pour visiteurs
 
 ## Indications pour se rendre au gite
 
-Voici les [indications](/indications.pdf) pour se rendre au gite pour la première fois.
+Voici [l'itineraire](/itineraire.pdf) pour se rendre au gite pour la première fois.
 
 ## Livret de maison
 
