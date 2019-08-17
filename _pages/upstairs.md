@@ -179,6 +179,13 @@ Le gite du haut a un accès independant et peut accueillir 5
 personnes. Il y a un grand salon avec ventilateur au plafond et une
 cuisine américaine, et une surface de 75m2.
 
+## Video
+
+<video width="320" height="180" controls>
+  <source src="../video/casa-albore-gite-du-haut.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Gallerie
 
 Sélectionner une image pour visionner la galerie...
