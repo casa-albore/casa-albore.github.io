@@ -7,6 +7,10 @@ header_text: Gite du Haut
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
+  - url: livret-haut/web/43.jpg
+    image_path: livret-haut/th/43.jpg
+  - url: livret-haut/web/42.jpg
+    image_path: livret-haut/th/42.jpg
   - url: livret-haut/web/41.jpg
     image_path: livret-haut/th/41.jpg
   - url: livret-haut/web/40.jpg
@@ -125,10 +129,10 @@ gallery:
     image_path: gite-du-haut/th/bedroom with 140cm bed.JPG
     alt: "chambre avec lit 140cm"
     title: "chambre avec lit 140cm"
-  - url: gite-du-haut/web/bedroom with 120cm bed.JPG
-    image_path: gite-du-haut/th/bedroom with 120cm bed.JPG
-    alt: "chamre avec lit 120cm"
-    title: "chamre avec lit 120cm"
+  - url: gite-du-haut/web/bedroom2 with 140cm bed.JPG
+    image_path: gite-du-haut/th/bedroom2 with 140cm bed.JPG
+    alt: "deuxieme chambre avec lit 140cm"
+    title: "deuxieme chambre avec lit 140cm"
   - url: gite-du-haut/web/twin bedroom.JPG
     image_path: gite-du-haut/th/twin bedroom.JPG
     alt: "chambre avec lits jumeaux 80cm"
